@@ -7,7 +7,7 @@ Child classdan bir object olusturdugunuzda constructorlar en ustteki
 parent classdan baslatilarak alta dogru calistirilir
 
 Child class daki constructordan Parent class daki constructora a gidebilmek icin super() kullanilir
-Parent class da birden fazla fazla constructor varsa istenilen constructor super() ifadesinin parantezi icine
+Parent class da birden fazla  constructor varsa istenilen constructor super() ifadesinin parantezi icine
 yazilan parametreler yardimi ile secilebilir
 
 Ayni class icindeki constructorlari secmek icin this() kullanilir, Ayni class da birden fazla constructor varsa
